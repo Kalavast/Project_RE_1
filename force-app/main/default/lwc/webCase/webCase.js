@@ -11,6 +11,7 @@ import Description_feild from '@salesforce/schema/Case.Description';
 import Subject_feild from '@salesforce/schema/Case.Subject';
 import Type_feild from '@salesforce/schema/Case.Type'; 
 import Reason_feild from '@salesforce/schema/Case.Reason';  
+import Emil_feild from '@salesforce/schema/Case.SuppliedEmail'; 
 
 //import _feild from '@salesforce/schema/Case.Status';
 export default class WebCase extends LightningElement {
@@ -34,7 +35,7 @@ export default class WebCase extends LightningElement {
     tab2Bool = false;
 
 
-    myFields = [Contact_Name, ACCOUNT_Name, Type_feild, Reason_feild, Subject_feild, Description_feild];
+    myFields = [Contact_Name, ACCOUNT_Name, Emil_feild, Type_feild, Reason_feild, Subject_feild, Description_feild];
     handleCaseCreation() {
         const toastEvent = new ShowToastEvent({
             title: 'Success',
