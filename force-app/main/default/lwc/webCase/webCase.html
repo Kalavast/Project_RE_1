@@ -1,0 +1,33 @@
+<template>
+        <h1 style="text-align:center;">  Creat a Case</h1>
+    
+       <!-- <lightning-record-edit-form object-api-name={objectName} record-id={recordId} onsuccess={handleSuccess}>
+            <lightning-input-Field read-only={readOnly} field-name={name}></lightning-input-field>
+            <lightning-input-field read-only={readOnly} field-name={account}></lightning-input-field>
+
+
+        </lightning-record-edit-form>
+        if:true={showdetails}
+    -->
+    <!-- 
+    <lightning-card title="Case WHy this not showing up">
+        <div class="slds-p-around_medium">
+            <template for:each={wireCases.data} for:item="c">
+                <div class="slds-item" key={acc.Id} >
+                 <strong>{acc.AccountId} </strong>
+                    <strong>{acc.ContactId} </strong>
+                </div>   
+              But THis does not?
+            </template>
+        </div>
+        This shows up right?
+    </lightning-card>
+   -->
+        
+    
+    <lightning-record-form  class="Case_Creation" object-api-name={objectName} fields={myFields} onsuccess={handleCaseCreation}>
+           
+    </lightning-record-form>
+</template>
+
+
