@@ -1,0 +1,17 @@
+input {
+    color: red;
+ }
+ .CaseCreation{
+    color: red;
+    font-weight: bold;
+}
+ :host{
+    height: 100%;
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-rows: auto 1fr auto;
+    background: grey;
+    color: orange;
+
+}
+
