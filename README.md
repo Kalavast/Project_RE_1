@@ -30,12 +30,13 @@ Authorise the code to an experience site (I sugest using VSC, Visual Studio Code
 in VSC (Ctr-shift-p and then hit authorise source to org).
 Login to a saleforce org of your choosing.
 Add component to experience site.
-![image](Example.png)
+
 
 ## Usage
 
-Enter parameters into the feilds displayed in the component.
-Hit save.
-Open up the cases list in your org and see its creation.
+- Enter parameters into the feilds displayed in the component.
+- Hit save.
+- Open up the cases list in your org and see its creation.
+- ![image](Example.png)
 
 
