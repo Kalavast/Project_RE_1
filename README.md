@@ -4,11 +4,11 @@ The Project Consists Of my first LWC I created for Experience Site
 
 ## Technologies Used
 
-1. LWC
-2. Apex Classes and Methods
-3. Apex Triggers
-4. Experience site
-5. Case standardObject
+- LWC
+- Apex Classes and Methods
+- Apex Triggers
+- Experience site
+- Case standardObject
 
 
 ## Features
