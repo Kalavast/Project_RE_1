@@ -1,6 +1,6 @@
 # Project 1: First Experience site LWC
 
-The Project Consists Of my first LWC I created for Experience Site
+The project consists of my first LWC I created for an Experience Site. In this project I was asked to create an experience site with LWC that had at least on apex trigger that followed best practices.
 
 ## Technologies Used
 
@@ -26,10 +26,10 @@ To-do List:
 ## Getting Started
 
 git clone https://github.com/Kalavast/Project_RE_1
-Authorise the code to an experience site (I sugest using VSC, Visual Studio Code).
-in VSC (Ctr-shift-p and then hit authorise source to org).
-Login to a saleforce org of your choosing.
-Add component to experience site.
+- Authorise the code to an experience site (I sugest using VSC, Visual Studio Code).
+- In VSC (Ctr-shift-p and then hit authorise source to org).
+- Login to a saleforce org of your choosing.
+- Add component to experience site.
 
 
 ## Usage
