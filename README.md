@@ -28,7 +28,7 @@ Authorise the code to an experience site (I sugest using VSC, Visual Studio Code
 in VSC (Ctr-shift-p and then hit authorise source to org).
 Login to a saleforce org of your choosing.
 Add component to experience site.
-
+![image](Example.png)
 
 ## Usage
 
