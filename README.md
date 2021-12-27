@@ -33,10 +33,10 @@ Add component to experience site.
 
 
 ## Usage
-
+Case Creation:
 - Enter parameters into the feilds displayed in the component.
 - Hit save.
 - Open up the cases list in your org and see its creation.
-- ![image](Example.png)
+![image](Example.png)
 
 
