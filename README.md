@@ -20,8 +20,8 @@ Features Ready:
 
 
 To-do List:
-  Add Additional cutomization. 
-  Create a package for easier use of features.
+  - Add Additional cutomization. 
+  - Create a package for easier use of features.
 
 ## Getting Started
 
