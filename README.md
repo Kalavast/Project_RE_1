@@ -14,9 +14,9 @@ The Project Consists Of my first LWC I created for Experience Site
 ## Features
 
 Features Ready:
-  The Project Fetures the ability to create a case from the experience site and place it in the org. 
-  There are apex trigger validation rules that prevent blank entries into the feilds.
-  There is a trigger that automaticaly states that the case was created though the web.
+  - The Project Fetures the ability to create a case from the experience site and place it in the org. 
+  - There are apex trigger validation rules that prevent blank entries into the feilds.
+  - There is a trigger that automaticaly states that the case was created though the web.
 
 
 To-do List:
